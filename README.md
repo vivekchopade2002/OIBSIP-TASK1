@@ -1,2 +1,2 @@
 # OIBSIP-TASK1
-I developed this landing page using CSS and HTNL
+I developed this landing page using CSS and HTML
